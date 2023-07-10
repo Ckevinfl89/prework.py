@@ -50,4 +50,4 @@ def is_leap_year(a_year):
 def is_consecutive(a_list):
     if not a_list:
      return False
-if len(set(a_list)) != len (a_list)
+    if len(set(a_list)) != len (a_list)
